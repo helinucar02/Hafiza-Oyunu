@@ -1,0 +1,17 @@
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\Hafıza_Oyunu.Form1.resources
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\Hafıza Oyunu.csproj.GenerateResource.cache
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\Hafıza Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\Hafıza Oyunu.AssemblyInfoInputs.cache
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\Hafıza Oyunu.AssemblyInfo.cs
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\Hafıza Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\Hafıza Oyunu.sourcelink.json
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\net8.0-windows\Hafıza Oyunu.exe
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\net8.0-windows\Hafıza Oyunu.deps.json
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\net8.0-windows\Hafıza Oyunu.runtimeconfig.json
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\net8.0-windows\Hafıza Oyunu.dll
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\bin\Debug\net8.0-windows\Hafıza Oyunu.pdb
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\Hafıza Oyunu.dll
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\refint\Hafıza Oyunu.dll
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\Hafıza Oyunu.pdb
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\Hafıza Oyunu.genruntimeconfig.cache
+C:\Users\HELEN\source\repos\Hafıza Oyunu\Hafıza Oyunu\obj\Debug\net8.0-windows\ref\Hafıza Oyunu.dll
